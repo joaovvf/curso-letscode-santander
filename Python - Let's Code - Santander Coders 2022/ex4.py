@@ -1,0 +1,6 @@
+numero1 = int(input("Insira o primeiro número: "))
+numero2 = int(input("Insira o segundo número: "))
+numeroReal = float(input("Insira um número Real: "))
+print(f"a){(numero1*2)*(numero2/2)}")
+print(f"b){(numero1*3) + numeroReal}")
+print(f"c){numeroReal**3:.2f}")
