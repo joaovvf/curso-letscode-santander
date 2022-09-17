@@ -6,7 +6,7 @@ Conteúdos e exercícios realizados referentes as aulas disponibilizadas na plat
 
 ## Aprendizados
 
-Estruturas, funções, laços, strings e vetores
+Estruturas, funções, laços, strings, vetores, tipos de dados, listas e bibliotecas
 
 ## Linguagens utilizadas
 
